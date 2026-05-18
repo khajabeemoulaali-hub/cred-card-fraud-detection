@@ -11,4 +11,3 @@ An end-to-end Machine Learning system deployed in Python to identify fraudulent 
 ## 🛠️ Tech Stack Used
 * **Platform:** Google Colab
 * **Libraries:** Pandas, NumPy, Scikit-Learn, Imbalanced-Learn (SMOTE), Matplotlib
-*
